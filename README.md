@@ -1,2 +1,4 @@
 # nuke-bot
-here are the files you need to create a nuke bot
+pretty much you open up the file and it has a read me file within. just open it and do what you gotta do from there.
+
+#pog
